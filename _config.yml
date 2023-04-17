@@ -17,3 +17,13 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+
+# blocklist
+branches:
+  except:
+  -none
+
+# safelist
+branches:
+  only:
+  - main
