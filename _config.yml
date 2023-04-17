@@ -9,7 +9,6 @@ description: "Website for Illegal Fishing Capstone."
 theme: minima
 lsi: false
 safe: true
-source: [illegalfishinguvasds.github.io/main]
 incremental: false
 highlighter: rouge
 gist:
