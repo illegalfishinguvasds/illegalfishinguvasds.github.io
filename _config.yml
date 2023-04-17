@@ -6,7 +6,7 @@ author:
 description: "Website for Illegal Fishing Capstone."
 
 # Build settings
-remote_theme: jekyll/minima
+theme: minima
 lsi: false
 safe: true
 source: [illegalfishinguvasds.github.io/main]
