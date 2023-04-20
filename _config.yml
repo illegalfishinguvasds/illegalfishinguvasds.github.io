@@ -1,12 +1,8 @@
 # Site settings
 title: Illegal Fishing Capstone Project
-author:
-  name: Nick Kalinowski, Jess Kimbrell, Chris Longchamp, and Anne Louise Seekford
-  email: tdj5xk@virginia.edu
-description: "Website for Illegal Fishing Capstone."
 
 # Build settings
-theme: minima
+theme: architect
 lsi: false
 safe: true
 incremental: false
