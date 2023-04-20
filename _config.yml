@@ -2,7 +2,7 @@
 title: Illegal Fishing Capstone Project
 
 # Build settings
-theme: architect
+theme: minimal
 lsi: false
 safe: true
 incremental: false
